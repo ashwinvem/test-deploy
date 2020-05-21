@@ -6,6 +6,8 @@ export default class Home extends Component {
             <div>
                 <h1>helo</h1>
                 <h2>again</h2>
+                <h3>todo</h3>
+                <h1>again</h1>
             </div>
         )
     }
