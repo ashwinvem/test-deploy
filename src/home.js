@@ -8,6 +8,7 @@ export default class Home extends Component {
                 <h2>again</h2>
                 <h3>todo</h3>
                 <h1>again</h1>
+                <p>what to do</p>
             </div>
         )
     }
